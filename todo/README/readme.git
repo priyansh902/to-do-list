@@ -1,0 +1,18 @@
+
+A to do list program 
+A Simple program written in java 
+which are divided in Simple structure 
+main--
+java--com--example--
+controller layer-- for restcontroller web apis post ,get
+model layer-- which consist model or structure of project,
+repositiory layer-- which have stroge or data base layer,
+service layer -- which have service work or logic layer,
+and last main layer -- which are going to execute.
+
+using dependencies
+
+--spring boot web,
+--spring data jpa,
+-- H2 database,
+--Lombok.
